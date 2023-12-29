@@ -70,20 +70,29 @@ endmodule
 
 ## Truthtable
 # HALF SUBTRACTOR
+
 ![image](https://github.com/PadmavathiMuthukumar/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/154965880/cd32e149-d031-4a9c-97c0-3eb91b504f70)
+
 # FULL SUBTRACTOR
+
 ![image](https://github.com/PadmavathiMuthukumar/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/154965880/2c6070fe-37e3-46da-89bb-d6c2b139f399)
 
 ##  RTL realization
 HALF SUBTRACTOR
+
 ![image](https://github.com/PadmavathiMuthukumar/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/154965880/d77bffd6-f0a2-4cb7-aab0-237be098e779)
+
 FULL SUBTRACTOR
+
 ![image](https://github.com/PadmavathiMuthukumar/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/154965880/455a3d12-1cf3-458e-bd75-86978d1b20ad)
 
 ## Timing diagram 
 HALF SUBTRACTOR
+
 ![image](https://github.com/PadmavathiMuthukumar/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/154965880/631acc9c-18e6-4c94-ad48-474bfcad6bd8)
+
 FULL SUBTRACTOR
+
 ![image](https://github.com/PadmavathiMuthukumar/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/154965880/c9e80009-fd4d-4680-ae9e-b4e22aaa3b10)
 
 ## Result:
